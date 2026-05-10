@@ -1,0 +1,14 @@
+{
+  "micro_f1": 0.8132857947082004,
+  "macro_f1": 0.7997962975449453,
+  "samples_f1": 0.7656312351468475,
+  "hamming_loss": 0.022128814162441064,
+  "rare_recall_mean": 0.8494530692682304,
+  "rare_classes": [
+    "online_crime",
+    "slavery",
+    "body_shaming",
+    "prostitution",
+    "terrorism"
+  ]
+}
